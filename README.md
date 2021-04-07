@@ -12,4 +12,4 @@ In computer science, an AVL tree (named after inventors Adelson-Velsky and Landi
 
 The AVL tree is named after its two Soviet inventors, Georgy Adelson-Velsky and Evgenii Landis, who published it in their 1962 paper "An algorithm for the organization of information".
 
-There serveal main operation for AVL tree: 1) Insert, 2) Delete, 3) Search, 4) Traversal. From the example in this file, one could find the example I have done in C. Please be aware that AVL tree property may be spoiled after each insert or delete operation so a rebalancing operation needs to be introduced to keep AVL tree property. This is also available in my example. 
+There serveal main operation for AVL tree: 1) Insert, 2) Delete, 3) Search, 4) Traversal. From the example in this file, one could find the example I have done in C. Please be aware that AVL tree property may be spoiled after each insert or delete operation so a rebalancing operation needs to be introduced to keep AVL tree property. This is also available in my example. In my sample, the basic element for a node is structured as (key, value).
